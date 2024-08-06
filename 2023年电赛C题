@@ -1,0 +1,2 @@
+DDS,LCD为32部分，用的是STM32F103ZET6，TFT4.3寸电容屏
+FPGA用的是米联客zynq7020与配套的ADDA模块
