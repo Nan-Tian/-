@@ -1,0 +1,2 @@
+LCD,DDS用在32上，主控芯片是STM32F103ZET6，LCD是TFT 4.3寸电容屏
+FPGA用的是米联客的Zynq7020，DAC用的是配套的
